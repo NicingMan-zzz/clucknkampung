@@ -2,7 +2,7 @@
 
 A Y2K-themed static website for **Cluckin' Kampung Sdn. Bhd.**, built with pure HTML, CSS, and vanilla JavaScript for **TSP 3243 Assignment 1**.
 
-**Live Site:** https://nicingman-zzz.github.io/CluckNKampung/
+**Live Site:** https://nicingman-zzz.github.io/clucknkampung/
 
 ## Pages & Features
 - **Home (`index.html`)** — Hero showcase, marquee banner, featured items, and the interactive Chicken Wisdom generator.
