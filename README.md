@@ -1,6 +1,6 @@
 # Cluckin' Kampung
 
-A Y2K-themed static website for **Cluckin' Kampung Sdn. Bhd.**, built with pure HTML, CSS, and vanilla JavaScript for **TSP 3243 Assignment 1**.
+A Y2K-themed static website for **Cluckin' Kampung Sdn. Bhd.**, built with pure HTML, CSS, and vanilla JavaScript
 
 **Live Site:** https://nicingman-zzz.github.io/clucknkampung/
 
